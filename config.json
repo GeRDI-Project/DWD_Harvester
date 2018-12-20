@@ -1,0 +1,1 @@
+{"OaiPmhETL":{"parameters":[{"key":"hostUrl","value":"http://oai.dwd.de/oai/provider","type":"StringParameter"},{"key":"metadataPrefix","value":"iso19139","type":"StringParameter"}]}}
